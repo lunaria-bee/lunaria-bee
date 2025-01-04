@@ -5,7 +5,7 @@
 ```json
 {
   "interests": ["artificial intelligence", "computational linguistics", "low-level systems"],
-  "favorite languages": ["c++", "python", "rust"],
+  "primary languages": ["c++", "python", "rust"],
   "hobbies": ["hiking", "cooking", "games (tabletop & video)"],
   "emacs or vim?": "emacs",
   "light or dark mode?": "dark",

@@ -27,7 +27,7 @@ I'm a Masters student in Computational Linguistics at the University of Colorado
 
 ### ⚙️&ensp;Embedded Systems
 
-Outside of school, I write embedded systems code for [high-volume commercial printers at Ricoh, USA](https://www.ricoh-usa.com/en/products/pl/equipment/commercial-and-industrial-printing/continuous-feed). Systems programming is a secondary love of mine, and one that I don't get many chances to exercise in AI/NLP work, so Ricoh makes a nice outlet for that drive. Perhaps in the future I should take up a side gig in ML systems 🤔.
+Outside of school, I write embedded systems code for [high-volume commercial printers at Ricoh, USA](https://www.ricoh-usa.com/en/products/pl/equipment/commercial-and-industrial-printing/continuous-feed). Systems programming is a secondary love of mine, and one that I don't get many chances to exercise in AI/NLP work, so Ricoh makes a nice outlet for that drive. Perhaps in the future I should take up a side gig developing systems code for ML libraries 🤔.
 
 <!--
 **lunaria-bee/lunaria-bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

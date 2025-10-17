@@ -6,7 +6,7 @@
 {
   "interests": ["artificial intelligence", "computational linguistics", "low-level systems"],
   "main languages": ["python", "rust", "c++"],
-  "hobbies": ["hiking", "cooking", "games (tabletop & video)"],
+  "hobbies": ["hiking", "games (tabletop & video)", "mosh pits"],
   "emacs or vim?": "emacs",
   "light or dark mode?": "dark",
   "education": [

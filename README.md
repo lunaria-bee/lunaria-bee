@@ -20,7 +20,7 @@
 
 ### 🤖&ensp;Language and AI
 
-I'm a machine learning researcher with a background in computational linguistics, primarily interested in representations, feauture learning, and neural-network explainability. I am currently pursuing a PhD in Computer Science at the University of British Columbia, studying machine learning under the supervision of [Dr. Danica Sutherland](https://www.djsutherland.ml/).
+I'm a machine learning researcher with a background in computational linguistics, primarily interested in representations, feauture learning, and neural-network explainability. Currently, I'm pursuing a PhD in Computer Science at the University of British Columbia, studying machine learning under the supervision of [Dr. Danica Sutherland](https://www.djsutherland.ml/).
 
 ### ⚙️&ensp;Embedded Systems
 
